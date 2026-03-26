@@ -1,4 +1,4 @@
-# Automated Intrusion Detection System
+# Shell Based Intrusion Detection System
 
 ## Overview
 This repository contains a shell-based Intrusion Detection System (IDS) designed to analyze authentication logs, identify brute-force attackers, and generate a firewall script to block them. The system automates log forensics utilizing shell scripting utilities, specifically `sed`, `grep`, and `awk`, combined with shell loops and conditional logic. This project was developed for the CS253 course at the Indian Institute of Technology Kanpur.
